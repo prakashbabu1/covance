@@ -7,6 +7,6 @@ import java.io.Serializable;
  * @author Varma
  */
 
-public interface Service extends Serializable {
+public interface Service extends Serializable{
 
 }
